@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal joshi</h1>
-<h3 align="center">Hi, my name is Vishal Joshi and I am an undergraduate student studying at Pune University. I am highly passionate about technology and skilled in Java, Python, and Django programming languages, also With experience in cloud computing, I understand the importance of modern technology. Eager to apply my skills and knowledge to real-world scenarios.</h3>
+<h3 align="center">Hi, my name is Vishal Joshi and I am an undergraduate Final Year Student studying at Pune University. I am highly passionate about technology and skilled in Java, Python, and Django programming languages, also With experience in cloud computing, I understand the importance of modern technology. Eager to apply my skills and knowledge to real-world scenarios.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjvishal98&label=Profile%20views&color=0e75b6&style=flat" alt="vjvishal98" /> </p>
 

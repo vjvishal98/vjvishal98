@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [FreeCoursesFinder](https://freecoursesfinder.pythonanywhere.com/)
 
-- 🌱 I’m currently learning **Data Analytics, React,**
+- 🌱 I’m currently learning **Data Analytics, Machine Learning, Reactjs**
 
 - 💬 Ask me about **Python, java, Djago**
 

@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Data Analytics, Machine Learning, Reactjs**
 
-- 💬 Ask me about **Python, java, Djago**
+- 💬 Ask me about **Python, java, Django**
 
 - 📫 How to reach me **Vishaljoshi24032@gmail.com**
 
-- 📄 Know about my Resume [https://drive.google.com/file/d/1-zMELT_KyjqRt_wtTr2_J9flIYKxjhHr/view?usp=sharing](https://drive.google.com/file/d/1-zMELT_KyjqRt_wtTr2_J9flIYKxjhHr/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1-zMELT_KyjqRt_wtTr2_J9flIYKxjhHr/view?usp=sharing](https://drive.google.com/file/d/1-zMELT_KyjqRt_wtTr2_J9flIYKxjhHr/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 

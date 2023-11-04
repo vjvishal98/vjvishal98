@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Vishaljoshi24032@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1-zMELT_KyjqRt_wtTr2_J9flIYKxjhHr/view?usp=sharing](https://drive.google.com/file/d/1-zMELT_KyjqRt_wtTr2_J9flIYKxjhHr/view?usp=sharing)
+- 📄 My Resume [Vishal_Resume](https://drive.google.com/file/d/1-zMELT_KyjqRt_wtTr2_J9flIYKxjhHr/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 
